@@ -1,4 +1,4 @@
-package coreUtilities.utils;
+package testdata;
 
 import java.awt.AWTException;
 import java.awt.Robot;

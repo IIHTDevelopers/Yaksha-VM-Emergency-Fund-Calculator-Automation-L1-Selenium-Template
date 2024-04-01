@@ -61,7 +61,7 @@ import ru.yandex.qatools.ashot.comparison.ImageDiff;
 import ru.yandex.qatools.ashot.comparison.ImageDiffer;
 
 /***
- * @author Sudhansu Sekhar Panda
+ * @author Yaksha
  * This class is responsible to perform all generic or commonly used operations
  *
  */

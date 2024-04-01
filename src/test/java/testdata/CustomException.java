@@ -1,4 +1,4 @@
-package coreUtilities.utils;
+package testdata;
 
 @SuppressWarnings("serial")
 public class CustomException extends Exception
